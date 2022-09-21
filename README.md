@@ -1,1 +1,1 @@
-# template
+# cowsay
